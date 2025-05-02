@@ -1,4 +1,5 @@
-import pytest, os, sys, tempfile, mock, json
+import pytest, os, sys, tempfile, json
+from unittest import mock
 from flask import Flask
 
 
